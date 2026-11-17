@@ -32,15 +32,10 @@ Gaussian Mixture Model (GMM) distribution fitting followed by Asymmetric Numeral
 ---
 
 ## Installation
+From source:
 
 ```bash
-pip install gauss-compress
-```
-
-Or from source:
-
-```bash
-git clone https://github.com/skystarry-ai/gauss
+git clone https://github.com/msskystarry/gauss
 cd gauss
 pip install -e .
 ```
